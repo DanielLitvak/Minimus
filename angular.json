@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Minimus"
+    }
+  },
+  "defaultProject": "Minimus",
+  "cli": {
+    "analytics": "b593718a-da39-45d0-b198-018e73ec4861"
+  }
 }
